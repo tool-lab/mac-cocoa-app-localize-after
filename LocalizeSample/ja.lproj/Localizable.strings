@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LocalizeSample
+
+  Created by sakura on 2013/04/14.
+  Copyright (c) 2013年 Tool Labs. All rights reserved.
+*/
+
+"STARTUP_TEXT" = "アプリ起動完了！";
+

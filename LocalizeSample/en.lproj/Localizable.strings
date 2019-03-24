@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LocalizeSample
+
+  Created by Tool Labs on 2013/04/14.
+  Copyright (c) 2013年 Tool Labs. All rights reserved.
+*/
+
+"STARTUP_TEXT" = "Application launched!";
+
